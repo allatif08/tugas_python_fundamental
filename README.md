@@ -1,0 +1,2 @@
+# tugas_python_fundamental
+tugas_python_fundamental
